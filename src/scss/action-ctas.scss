@@ -1,0 +1,21 @@
+.action-ctas {
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+
+    &__link {
+        display: flex;
+        align-items: center;
+        max-width: 220px;
+        border-radius: 0;
+        padding: 0.25rem;
+        margin-left: 0.5rem;
+        background-color: #fff;
+        color: #000;
+        text-decoration: none;
+
+        img {
+            height: 10px;
+        }
+    }
+}
