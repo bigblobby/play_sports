@@ -7,6 +7,7 @@ function App() {
             <Header />
             <Navigation />
 
+            {/* This only exists to add space to the page*/}
             <div style={{height: '400vh'}}></div>
         </div>
     );
